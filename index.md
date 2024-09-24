@@ -9,14 +9,14 @@ country: "de"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "54"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "10"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "Apr 4-6, 2023"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "10:00 - 18:00 CEST"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
-startdate: 2023-04-04      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2023-04-06        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Carsten Fortmann-Grote", "Nikoleta Glynatsi"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Beate Gericke", "Octavio Reyes-Matte"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+humandate: "Nov 18-22, 2024"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "09:00 - 16:00 CEST"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
+startdate: 2024-11-18      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2023-11-22        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Carsten Fortmann-Grote"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Mariana Meireles"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["computing@evolbio.mpg.de"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes: https://pad.carpentries.org/2023-04-04-MPIEvolBio # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+collaborative_notes: https://pad.gwdg.de/rZAaLzCySFeSFIb5M46stQ # optional: URL for the workshop collaborative notes
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
@@ -313,7 +313,7 @@ Edit the text to match who can attend the workshop. For instance:
 1. **Programming Style**: How can I make my programs more readable? How do most programmers format their code? How can programs check their own operation?
 
 <h2 id="registration">Registration</h2>
-To register, please use [our registrations page](https://workshops.evolbio.mpg.de/event/86/registrations/ "Registration form").
+To register, please use [our registrations page](https://workshops.evolbio.mpg.de/event/121/registrations/ "Registration form").
 {% comment%}
 CODE OF CONDUCT
 {% endcomment %}
