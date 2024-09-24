@@ -312,6 +312,18 @@ Edit the text to match who can attend the workshop. For instance:
 1. **Variable Scope**: How do function calls actually work? How can I determine where errors occurred?
 1. **Programming Style**: How can I make my programs more readable? How do most programmers format their code? How can programs check their own operation?
 
+### Introduction to the Electronic Lab Notebook OpenBIS
+
+### Introduction to Image Data Management with OMERO
+1. **Image data management**
+1. **Getting around in OMERO.web**
+1. **Getting data into OMERO**
+1. **Annotations: Add meaning to your data**
+1. **Producing publication ready figures**
+1. **Image data analysis in OMERO**
+1. **OMERO on the command line**
+
+
 <h2 id="registration">Registration</h2>
 To register, please use [our registrations page](https://workshops.evolbio.mpg.de/event/121/registrations/ "Registration form").
 {% comment%}
