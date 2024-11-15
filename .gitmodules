@@ -1,3 +1,12 @@
 [submodule "wiki"]
 	path = wiki
 	url = git@github.com:mpievolbio-scicomp/2024-11-18-MPIEvolBio.wiki.git
+[submodule "Lessons/shell-novice"]
+	path = Lessons/shell-novice
+	url = https://github.com/swcarpentry/shell-novice.git
+[submodule "Lessons/git-novice"]
+	path = Lessons/git-novice
+	url = https://github.com/swcarpentry/git-novice.git
+[submodule "Lessons/python-novice-gapminder"]
+	path = Lessons/python-novice-gapminder
+	url = https://github.com/swcarpentry/python-novice-gapminder.git
